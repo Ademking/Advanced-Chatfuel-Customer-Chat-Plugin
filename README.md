@@ -3,6 +3,7 @@ Advanced Chatfuel Customer Chat Plugin 🛠
 https://ademking.github.io/Advanced-Chatfuel-Customer-Chat-Plugin/
 
 ---------------
+![](https://i.imgur.com/HlgxvWX.png)
 
 A client told me to make custom message for "Customer Chat Plugin" ...
 
