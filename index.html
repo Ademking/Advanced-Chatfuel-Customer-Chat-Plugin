@@ -286,8 +286,9 @@
              page_id = div.getAttribute('page_id');
 
              
-             let regex = /(?<=: ')(.*)(?=',)/gm;
+             let regex = /(?<=: ')(.*)(?=',  )/gm;
              let app_id = code.match(regex);
+             console.log(app_id);
              let logged_in_greeting = $("#txt-logged").val();
              let logged_out_greeting = $("#txt-logged-out").val();
              let color = $("#hue-demo").val();
